@@ -1,0 +1,101 @@
+{
+  "buyList": [
+    {
+      "data": {
+        "name": "Baguette",
+        "price": "800",
+        "stock": "40",
+        "mark": "B.S.",
+        "category": "Bread",
+        "descShort": "Traditional french bread",
+        "descLarge": "The best french bread by the master Luc Saelins",
+        "freeDelivery": "yes",
+        "ageSince": "2023-11-21",
+        "ageUntil": "2023-11-13",
+        "image": "https://i.ibb.co/GTbwzB8/baguette.png",
+        "id": "1",
+        "amount": 5
+      },
+      "id": 1
+    },
+    {
+      "data": {
+        "name": "Milk Bread",
+        "price": "2000",
+        "stock": "3",
+        "mark": "B.S.",
+        "category": "Sweet",
+        "descShort": "Rich milk bread",
+        "descLarge": "Light but tasty semi-sweet bread, made from a paste with eggs, fresh yeast, milk, butter and suga",
+        "freeDelivery": "yes",
+        "ageSince": "2023-10-15",
+        "ageUntil": "2024-03-25",
+        "image": "https://i.ibb.co/PTbdPT8/pan-de-leche.png",
+        "id": "4",
+        "amount": 10
+      },
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Pan do chocola",
+        "price": "500",
+        "stock": "30",
+        "mark": "B.S.",
+        "category": "Sweet",
+        "descShort": "Autentic Chocolate bread",
+        "descLarge": "Invented by August Zang, a roll of dough with 2 bars of semisweet chocolate",
+        "freeDelivery": "yes",
+        "ageSince": "2023-11-21",
+        "ageUntil": "2024-01-05",
+        "image": "https://i.ibb.co/2YnHBnL/pan-de-chocolate.png",
+        "id": "3",
+        "amount": 3
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "name": "Seed bread",
+        "price": "2500",
+        "stock": "40",
+        "mark": "B.S.",
+        "category": "Salty",
+        "descShort": "Healthy  bread",
+        "descLarge": "Based on the msa Tradicion, it contains flax, sesame and sunflower seeds.",
+        "freeDelivery": "yes",
+        "ageSince": "2023-10-15",
+        "ageUntil": "2024-04-25",
+        "image": "https://i.ibb.co/Qvd8WMm/pan-de-semillas.png",
+        "id": "6",
+        "amount": 2
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "name": "Croissant 🥐",
+        "price": "450",
+        "stock": "86",
+        "mark": "B.S.",
+        "category": "Sweet",
+        "descShort": "Autentic Croissant",
+        "descLarge": "Made with 50% margarine and 50% of butter. An experimental dough",
+        "freeDelivery": "yes",
+        "ageSince": "2023-05-15",
+        "ageUntil": "2024-02-01",
+        "image": "https://i.ibb.co/WcDFFgR/croissant.png",
+        "id": "2",
+        "amount": 0
+      },
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
